@@ -1,0 +1,11 @@
+Jaws,01011979,15,Spielberg,Warner,A biteful
+One,12121999,18,Terry,HBO,Yuck
+Valhalla Rising,10102016,21,Thorsen,Norway Films,Good
+The Proposition,01042015,18,N. Cave,AMG, Excellent
+SpaceBalls,02031983,12,M. Brooks,Warner,Funny
+Gladiator,01052000,15,Ridley Scott,DreamWorks,Ridley Scott's Gladiator is an epic film with quotes to match
+Arrival,01092016,12,Dennis Villeneuve,FilmNation Entertainment,94% Approval rating on Rotten Tomatoes
+The lord of the rings: the fellowship of the ring,10122001,13,Peter Jackson,New Line Cinema,10/10
+Dune,21102021,15,Denis Villeneuve,Legendary Pictures,magical
+DVD,10272021,18,DVD person,DVD studio,Disc Vidoe Disc
+TF2,video gane,yes,no,maybe,pipis
